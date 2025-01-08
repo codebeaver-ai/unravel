@@ -16,6 +16,8 @@ import flintaData from '../../data/flinta.json';
 import bairroData from '../../data/bairro.json';
 import QuestionsMode from "./components/QuestionsMode";
 
+// add tests here
+
 const availableModes = [
   {
     title: 'Play Unravel',
